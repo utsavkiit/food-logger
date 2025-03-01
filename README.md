@@ -25,7 +25,7 @@ A comprehensive food logging application that helps you track your nutrition and
 
 ## Deployment
 
-The frontend of this application is deployed on GitHub Pages: [https://YOUR_GITHUB_USERNAME.github.io/food-logger](https://YOUR_GITHUB_USERNAME.github.io/food-logger)
+The frontend of this application is deployed on GitHub Pages: [https://utsavkiit.github.io/food-logger](https://utsavkiit.github.io/food-logger)
 
 ## Local Development
 
@@ -37,7 +37,7 @@ The frontend of this application is deployed on GitHub Pages: [https://YOUR_GITH
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR_GITHUB_USERNAME/food-logger.git
+   git clone https://github.com/utsavkiit/food-logger.git
    cd food-logger
    ```
 
