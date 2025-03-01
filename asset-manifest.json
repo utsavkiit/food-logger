@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/food-logger/static/css/main.c3fcc941.css",
-    "main.js": "/food-logger/static/js/main.a4f76211.js",
+    "main.css": "/food-logger/static/css/main.5a3581f5.css",
+    "main.js": "/food-logger/static/js/main.91d23818.js",
     "static/js/453.419a5d54.chunk.js": "/food-logger/static/js/453.419a5d54.chunk.js",
     "index.html": "/food-logger/index.html",
-    "main.c3fcc941.css.map": "/food-logger/static/css/main.c3fcc941.css.map",
-    "main.a4f76211.js.map": "/food-logger/static/js/main.a4f76211.js.map",
+    "main.5a3581f5.css.map": "/food-logger/static/css/main.5a3581f5.css.map",
+    "main.91d23818.js.map": "/food-logger/static/js/main.91d23818.js.map",
     "453.419a5d54.chunk.js.map": "/food-logger/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3fcc941.css",
-    "static/js/main.a4f76211.js"
+    "static/css/main.5a3581f5.css",
+    "static/js/main.91d23818.js"
   ]
 }
